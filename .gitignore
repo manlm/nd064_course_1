@@ -6,3 +6,9 @@ __pycache__/
 .vagrant/
 
 project/techtrends/.idea/
+
+project/techtrends/database.db
+
+project/.idea/
+
+.DS_Store
